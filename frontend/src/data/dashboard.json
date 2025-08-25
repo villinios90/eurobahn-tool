@@ -1,0 +1,12 @@
+{
+  "kpis": {
+    "trainings_active": 5,
+    "open_exams": 3,
+    "upcoming_deadlines": 4
+  },
+  "traffic_light": {
+    "green": 12,
+    "yellow": 3,
+    "red": 2
+  }
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Triebfahrzeugf\u00fchrer Ausbildung",
+    "progress": 75,
+    "status": "laufend"
+  },
+  {
+    "id": 2,
+    "name": "RFU Fortbildung",
+    "progress": 100,
+    "status": "abgeschlossen"
+  }
+]

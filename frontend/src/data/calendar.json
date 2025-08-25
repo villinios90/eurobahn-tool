@@ -1,0 +1,26 @@
+{
+  "trainers": [
+    {
+      "name": "Max Mustermann",
+      "date": "2024-04-10",
+      "task": "Simulatortraining"
+    },
+    {
+      "name": "Julia Schmidt",
+      "date": "2024-04-11",
+      "task": "RFU-Unterricht"
+    }
+  ],
+  "simulator": [
+    {
+      "date": "2024-04-10",
+      "slot": "08:00-12:00",
+      "status": "belegt"
+    },
+    {
+      "date": "2024-04-11",
+      "slot": "13:00-17:00",
+      "status": "frei"
+    }
+  ]
+}
